@@ -24,7 +24,6 @@ int main()
     int t;
     cin >> t;
     
-    int dist = 0;
     while(t--)
     {
         int x1, y1, r1, x2, y2, r2;
